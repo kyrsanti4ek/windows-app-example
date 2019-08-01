@@ -1,0 +1,11 @@
+.idea/
+*.iml
+*.iws
+log/
+target/
+**/allure-results/
+**/build/
+**/.DS_Store
+
+# Project exclude paths
+/pickerman-ui/apk/
